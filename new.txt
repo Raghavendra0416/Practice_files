@@ -4,6 +4,3 @@ Making Few Changes to the file to push into Git.
 The above changes have been pushed to GITHUB without any GIT Conflict.
 This is the change from my local computer.
 This is the change from GitHub.
-
-I Have created a new Branch.
-Now i want to psuh the file the new branch.
